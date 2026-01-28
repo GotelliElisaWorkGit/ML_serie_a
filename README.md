@@ -127,3 +127,4 @@ Entrambi i modelli saranno addestrati sul dataset combinato e confrontati in ter
 # AUTORI PROGETTO: 
 1. Gotelli Elisa
 2. Grosso Francesco
+3. Davide Rachide Sahraoui
