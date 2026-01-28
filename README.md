@@ -123,3 +123,7 @@ L'obiettivo è sviluppare due software in grado di prevedere i risultati delle p
    Software che sfrutta l'algoritmo Random Forest per la previsione dei risultati.
 
 Entrambi i modelli saranno addestrati sul dataset combinato e confrontati in termini di accuratezza e prestazioni.
+
+# AUTORI PROGETTO: 
+1. Gotelli Elisa
+2. Grosso Francesco
